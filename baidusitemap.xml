@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>https://iochen.com/2020/03/23/collatz/</loc>
+    <lastmod>2020-03-23T07:12:44.058Z</lastmod>
+    <data>
+        <display>
+        <title>[已证伪]柯拉兹猜想轮数规律</title>
+        <pubTime>2020-03-23T02:25:04.000Z</pubTime>
+        
+        <tag>math</tag>
+         
+        <tag>collatz</tag>
+         
+         
+           
+             
+              <breadCrumb title="math" url="https://iochen.com/categories/math/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>https://iochen.com/2020/02/02/v2gen-usage/</loc>
+    <lastmod>2020-03-03T04:54:19.694Z</lastmod>
+    <data>
+        <display>
+        <title>从订阅链接生成V2Ray配置 - V2Gen的使用</title>
+        <pubTime>2020-02-02T10:26:20.000Z</pubTime>
+        
+        <tag>V2Ray</tag>
+         
+        <tag>V2Gen</tag>
+         
+        <tag>Vmess</tag>
+         
+         
+           
+             
+              <breadCrumb title="MyApps" url="https://iochen.com/categories/MyApps/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://iochen.com/2020/02/04/view-edit-remove-exif-data-with-exiftool/</loc>
+    <lastmod>2020-02-04T12:12:38.263Z</lastmod>
+    <data>
+        <display>
+        <title>Linux下使用ExifTool对EXIF的操作</title>
+        <pubTime>2020-02-04T09:48:18.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+        <tag>ExifTool</tag>
+         
+        <tag>EXIF</tag>
+         
+         
+           
+             
+              <breadCrumb title="Apps" url="https://iochen.com/categories/Apps/"/>
+          
+             
+              <breadCrumb title="ExifTool" url="https://iochen.com/categories/Apps/ExifTool/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://iochen.com/2018/07/11/get-A-plus-on-https-by-using-nginx/</loc>
+    <lastmod>2020-02-03T10:06:20.471Z</lastmod>
+    <data>
+        <display>
+        <title>nginx配置HTTPS并取得A+</title>
+        <pubTime>2018-07-11T11:25:20.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+        <tag>server</tag>
+         
+        <tag>nginx</tag>
+         
+        <tag>HTTPS</tag>
+         
+        <tag>safe</tag>
+         
+         
+           
+             
+              <breadCrumb title="Apps" url="https://iochen.com/categories/Apps/"/>
+          
+             
+              <breadCrumb title="nginx" url="https://iochen.com/categories/Apps/nginx/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://iochen.com/2019/08/18/convert-videos-to-audio-on-linux/</loc>
+    <lastmod>2020-02-03T10:06:06.019Z</lastmod>
+    <data>
+        <display>
+        <title>Linux下使用FFmpeg,将mp4等格式转mp3格式</title>
+        <pubTime>2019-08-18T03:09:08.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+        <tag>FFmpeg</tag>
+         
+         
+           
+             
+              <breadCrumb title="Apps" url="https://iochen.com/categories/Apps/"/>
+          
+             
+              <breadCrumb title="FFmpeg" url="https://iochen.com/categories/Apps/FFmpeg/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://iochen.com/2020/02/03/filesize-puzzle/</loc>
+    <lastmod>2020-02-03T09:59:15.438Z</lastmod>
+    <data>
+        <display>
+        <title>[Unsolved] Wrong file size</title>
+        <pubTime>2020-02-03T06:30:22.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+        <tag>Issue</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="https://iochen.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="openSUSE" url="https://iochen.com/categories/Linux/openSUSE/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://iochen.com/2020/01/19/binary-nixie-tube-clock/</loc>
+    <lastmod>2020-02-03T09:21:25.345Z</lastmod>
+    <data>
+        <display>
+        <title>二进制辉光钟(DIY)</title>
+        <pubTime>2020-01-19T02:39:11.000Z</pubTime>
+        
+        <tag>Circuit</tag>
+         
+        <tag>Nixie tube clock</tag>
+         
+        <tag>DIY</tag>
+         
+         
+           
+             
+              <breadCrumb title="Circuits" url="https://iochen.com/categories/Circuits/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://iochen.com/2019/07/01/dovecot-problem-solve/</loc>
+    <lastmod>2020-02-03T09:21:13.038Z</lastmod>
+    <data>
+        <display>
+        <title>出现 doveconf: Fatal: Error in ... ssl_cert: ... Can not open file: Permission denied 的解决办法</title>
+        <pubTime>2019-07-01T03:15:45.000Z</pubTime>
+        
+        <tag>openSUSE</tag>
+         
+        <tag>server</tag>
+         
+        <tag>dovecot</tag>
+         
+        <tag>error</tag>
+         
+        <tag>solve</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="https://iochen.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="openSUSE" url="https://iochen.com/categories/Linux/openSUSE/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://iochen.com/2018/07/27/install-email-service-on-CentOS-7-part-2-dovecot/</loc>
+    <lastmod>2020-02-03T09:21:01.819Z</lastmod>
+    <data>
+        <display>
+        <title>基于CentOS 7,使用Postfix & Dovecot搭建邮件服务器 -Part 2</title>
+        <pubTime>2018-07-27T12:54:21.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+        <tag>CentOS</tag>
+         
+        <tag>Postfix</tag>
+         
+        <tag>Dovecot</tag>
+         
+        <tag>邮件服务器</tag>
+         
+        <tag>自建邮件服务器</tag>
+         
+        <tag>DKIM</tag>
+         
+        <tag>SPF记录</tag>
+         
+        <tag>PTR记录</tag>
+         
+        <tag>DMARC记录</tag>
+         
+        <tag>MX记录</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="https://iochen.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="CentOS" url="https://iochen.com/categories/Linux/CentOS/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://iochen.com/2019/01/31/solved-problem-about-SD-card-formart-on-Linux/</loc>
+    <lastmod>2020-02-03T09:20:34.337Z</lastmod>
+    <data>
+        <display>
+        <title>Linux上SD卡问题的解决</title>
+        <pubTime>2019-01-31T04:40:13.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+        <tag>openSUSE</tag>
+         
+        <tag>Problem Solve</tag>
+         
+        <tag>SD Card</tag>
+         
+        <tag>gParted</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="https://iochen.com/categories/Linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://iochen.com/2018/07/21/install-email-service-on-CentOS-7-part-1-postfix/</loc>
+    <lastmod>2020-02-03T09:19:45.933Z</lastmod>
+    <data>
+        <display>
+        <title>基于CentOS 7,使用Postfix & Dovecot搭建邮件服务器 -Part 1</title>
+        <pubTime>2018-07-21T11:52:16.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+        <tag>CentOS</tag>
+         
+        <tag>Postfix</tag>
+         
+        <tag>Dovecot</tag>
+         
+        <tag>邮件服务器</tag>
+         
+        <tag>自建邮件服务器</tag>
+         
+        <tag>DKIM</tag>
+         
+        <tag>SPF记录</tag>
+         
+        <tag>PTR记录</tag>
+         
+        <tag>DMARC记录</tag>
+         
+        <tag>MX记录</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="https://iochen.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="CentOS" url="https://iochen.com/categories/Linux/CentOS/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
+  <url>
+    <loc>https://iochen.com/2019/08/18/gen-ecc-512-gpg-keys/</loc>
+    <lastmod>2020-01-12T03:46:26.897Z</lastmod>
+    <data>
+        <display>
+        <title>GPG中创建ECC-512公私钥</title>
+        <pubTime>2019-08-18T04:09:56.000Z</pubTime>
+        
+        <tag>ECC</tag>
+         
+        <tag>非对称加密</tag>
+         
+        <tag>GPG</tag>
+         
+        <tag>PGP</tag>
+         
+        <tag>ECC-512</tag>
+         
+         
+           
+             
+              <breadCrumb title="Crypto" url="https://iochen.com/categories/Crypto/"/>
+          
+             
+              <breadCrumb title="ECC" url="https://iochen.com/categories/Crypto/ECC/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://iochen.com/2019/08/18/zip-softwares-on-linux/</loc>
+    <lastmod>2019-08-18T04:07:34.167Z</lastmod>
+    <data>
+        <display>
+        <title>Linux 下的压缩，打包及解压操作</title>
+        <pubTime>2019-08-18T03:27:43.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+        <tag>zip</tag>
+         
+        <tag>7zip</tag>
+         
+        <tag>gzip</tag>
+         
+        <tag>tar</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="https://iochen.com/categories/Linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://iochen.com/2018/01/05/use-gitment-in-your-blog/</loc>
+    <lastmod>2019-05-19T03:45:43.000Z</lastmod>
+    <data>
+        <display>
+        <title>hexo评论系统——Gitment</title>
+        <pubTime>2018-01-05T11:22:56.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+        <tag>gitment</tag>
+         
+         
+           
+             
+              <breadCrumb title="Blog build" url="https://iochen.com/categories/Blog-build/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://iochen.com/2018/01/06/use-gitalk-in-hexo/</loc>
+    <lastmod>2019-05-14T04:15:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo中Gitalk配置使用教程-可能是目前最详细的教程</title>
+        <pubTime>2018-01-06T11:22:20.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+        <tag>gitalk</tag>
+         
+         
+           
+             
+              <breadCrumb title="Blog build" url="https://iochen.com/categories/Blog-build/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>https://iochen.com/2018/02/10/openssl-RSA-1/</loc>
+    <lastmod>2018-08-17T12:09:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>openssl RSA简单使用</title>
+        <pubTime>2018-02-10T03:44:49.000Z</pubTime>
+        
+        <tag>openssl</tag>
+         
+        <tag>加解密</tag>
+         
+        <tag>RSA</tag>
+         
+        <tag>encrypt</tag>
+         
+        <tag>decrypt</tag>
+         
+         
+           
+             
+              <breadCrumb title="Crypto" url="https://iochen.com/categories/Crypto/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://iochen.com/2018/06/02/firewall-of-CentOS/</loc>
+    <lastmod>2018-08-17T12:09:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>CentOS7防火墙的使用</title>
+        <pubTime>2018-06-02T10:28:52.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+        <tag>CentOS</tag>
+         
+        <tag>firewall</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="https://iochen.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="CentOS" url="https://iochen.com/categories/Linux/CentOS/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+</urlset>
